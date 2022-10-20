@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=damzkii" alt="damzkii" /></a> </p>
 
-- 💬 My interests **You will mostly find projects in C-language here but I have interest in web development and intend to do a "Full stack" open course by Helsinki University in my free time. I'm also interested slightly in game development and will try to learn some small game projects using unity.**
+- ⚡ **You will mostly find projects in C-language here but I have interest in web development and intend to do a "Full stack" open course by Helsinki University in my free time. I'm also interested slightly in game development and will try to learn some small game projects using unity.**
 
 - 📫 How to reach me **adam.noordika@gmail.com**
 
@@ -17,7 +17,7 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> </p>
+<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=damzkii&show_icons=true&locale=en&layout=compact" alt="damzkii" /></p>
 

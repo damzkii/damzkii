@@ -1,5 +1,5 @@
-<h1 align="center">Hello! 👋</h1>
-<h3 align="center">My name is Adam! I am a passionate programming student currently studying in Hive Helsinki! You can find my school projects in here and in the near future some projects I will do on my own time! You will mostly find projects in C-language here but I have a interest in web development and intend to do a "Full stack" open course by Helsinki University in my free time.</h3>
+<h1 align="left">Hello! 👋</h1>
+<h3 align="left">My name is Adam! I am a passionate programming student currently studying in Hive Helsinki! You can find my school projects in here and in the near future some projects I will do on my own time! You will mostly find projects in C-language here but I have a interest in web development and intend to do a "Full stack" open course by Helsinki University in my free time.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=damzkii&label=Profile%20views&color=0e75b6&style=flat" alt="damzkii" /> </p>
 

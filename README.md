@@ -1,9 +1,11 @@
-<h1 align="left">Hello! 👋</h1>
-<h3 align="left">My name is Adam! I am a passionate programming student currently studying in Hive Helsinki! You can find my school projects in here and in the near future some projects I will do on my own time! You will mostly find projects in C-language here but I have a interest in web development and intend to do a "Full stack" open course by Helsinki University in my free time.</h3>
+<h1 align="center">Hello! 👋</h1>
+<h3 align="center">My name is Adam! I am a passionate programming student currently studying in Hive Helsinki! You can find my school projects in here and in the near future some projects I will do on my own time!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=damzkii&label=Profile%20views&color=0e75b6&style=flat" alt="damzkii" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=damzkii" alt="damzkii" /></a> </p>
+
+- 💬 My interests **You will mostly find projects in C-language here but I have interest in web development and intend to do a "Full stack" open course by Helsinki University in my free time. I'm also interested slightly in game development and will try to learn some small game projects using unity.**
 
 - 📫 How to reach me **adam.noordika@gmail.com**
 

@@ -7,7 +7,7 @@
 
 - ⚡ **You will mostly find projects in C-language here but I have interest in web development and intend to do a "Full stack" open course by Helsinki University in my free time. I'm also interested slightly in game development and will try to learn some small game projects using unity.**
 
-- 📫 How to reach me **adam.noordika@gmail.com**
+- 📫 **adam.noordika@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
